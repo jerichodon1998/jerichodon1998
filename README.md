@@ -1,6 +1,6 @@
 ### Mark Jericho Manilag
 
-👋 Hi there! I'm a web developer with the eagerness to learn more about web development and programming. I have some of my personal project linked on my linkedin profile.
+👋 Hi there! I'm a web developer with the eagerness to learn more about web development and programming.
 
 Visit my linkedin <a href="https://www.linkedin.com/in/mark-jericho-manilag-089706206/" target="_blank">
 <img width="22px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
